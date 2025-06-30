@@ -1,0 +1,3 @@
+#zen-sidebar-foot-buttons > :not(#downloads-button) {
+  display: none !important;
+}
